@@ -2,9 +2,9 @@
 const API_CONFIG = {
   baseUrl: "https://imdb236.p.rapidapi.com/imdb",
   headers: {
-    "X-RapidAPI-Key": "", // API key will be added from environment variables
-    "X-RapidAPI-Host": "imdb236.p.rapidapi.com",
-  },
+    "X-RapidAPI-Key": "1f0d9f7e4amshd18fd7af2a9dbd3p15bb14jsn063d788a4693" ,
+    "X-RapidAPI-Host": 'imdb236.p.rapidapi.com',
+  }
 }
 
 // State management for pagination
